@@ -1,0 +1,21 @@
+AI SALES DETECTIVE — DEMONSTRATION GUIDE
+
+1. Begin in VS Code and explain the problem statement.
+2. Show app.py, main.py, train_model.py, the data directory, and requirements.txt.
+3. Run the web dashboard:
+   python -m streamlit run app.py
+4. Upload data/sales.csv from the sidebar.
+5. Show the Sales Overview and Revenue Trend.
+6. Compare earlier and recent records. Mention that the split may use different numbers of days.
+7. Explain the regression estimate, selected features, and MAE.
+8. Show the IQR-based unusual-sales detection.
+9. Read the Sales Investigation Report and Root-Cause Analysis. Stress that proposed explanations are hypotheses.
+10. Show View Sales Data and the download option.
+11. Conclude with the libraries used and the main lesson learned.
+
+Optional input-validation tests:
+- data/bad_sales.csv
+- data/bad_date.csv
+- data/negative_sales.csv
+
+Remember: forecasts are experimental estimates, outliers need human review, and observed changes do not prove root causes.
