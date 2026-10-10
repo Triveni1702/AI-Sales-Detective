@@ -6,7 +6,8 @@
 
 ## Demonstration Video
 
-[Watch the AI Sales Detective demonstration](demo.mp4)
+Watch the AI Sales Detective demonstration
+https://drive.google.com/file/d/1aFjhRThmxaaxMOHpQAL-RMWHHz5O5OCS/view?usp=sharing
 
 The video file is included in this repository as `demo.mp4`. If you later upload the video to YouTube, Google Drive, or another hosting service, replace the link above with the shareable URL.
 
